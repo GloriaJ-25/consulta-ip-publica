@@ -1,0 +1,102 @@
+[
+    {
+        "IP": "8.8.8.8",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 39.03,
+            "Longitud": -77.5
+        }
+    },
+    {
+        "IP": "200.33.146.193",
+        "País": "Mexico",
+        "Región": "Mexico City",
+        "ISP": "UNINET",
+        "Coordenadas": {
+            "Latitud": 19.4196,
+            "Longitud": -99.1428
+        }
+    },
+    {
+        "IP": "1.1.1.1",
+        "País": "Australia",
+        "Región": "Queensland",
+        "ISP": "Cloudflare, Inc",
+        "Coordenadas": {
+            "Latitud": -27.4766,
+            "Longitud": 153.0166
+        }
+    },
+    {
+        "IP": "142.250.217.206",
+        "País": "United States",
+        "Región": "Florida",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 25.7617,
+            "Longitud": -80.1918
+        }
+    },
+    {
+        "IP": "172.217.17.142",
+        "País": "The Netherlands",
+        "Región": "North Holland",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 52.3676,
+            "Longitud": 4.90414
+        }
+    },
+    {
+        "IP": "151.101.1.69",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Fastly, Inc.",
+        "Coordenadas": {
+            "Latitud": 37.7642,
+            "Longitud": -122.3993
+        }
+    },
+    {
+        "IP": "13.224.202.18",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Amazon.com, Inc.",
+        "Coordenadas": {
+            "Latitud": 39.0438,
+            "Longitud": -77.4874
+        }
+    },
+    {
+        "IP": "52.216.152.66",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Amazon.com, Inc.",
+        "Coordenadas": {
+            "Latitud": 39.0438,
+            "Longitud": -77.4874
+        }
+    },
+    {
+        "IP": "104.244.42.129",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Twitter Inc.",
+        "Coordenadas": {
+            "Latitud": 37.7766,
+            "Longitud": -122.417
+        }
+    },
+    {
+        "IP": "185.199.108.153",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Fastly, Inc.",
+        "Coordenadas": {
+            "Latitud": 37.7823,
+            "Longitud": -122.391
+        }
+    }
+]

@@ -1,0 +1,4 @@
+Reply from 8.8.8.8: time=122.39 ms
+Reply from 8.8.8.8: time=70.11 ms
+Reply from 8.8.8.8: time=63.24 ms
+Reply from 8.8.8.8: time=55.16 ms
